@@ -1,156 +1,107 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:2563eb,100:06b6d4&text=Sahith%20Reddy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Engineer%20|%20Java%20|%20Spring%20Boot%20|%20React%20|%20Cloud%20|%20AI&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=SAHITH%20REDDY&fontSize=70&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20Cloud%20|%20AI&descAlignY=60"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=24\&duration=3000\&pause=1000\&center=true\&vCenter=true\&width=1000\&lines=Software+Engineer;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Microservices;React+%7C+TypeScript+%7C+JavaScript;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;Building+Enterprise+Applications;Building+AI+Powered+Solutions)](https://git.io/typing-svg)
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=sahithraeddy512&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Building+Enterprise+Applications;Java+%7C+Spring+Boot+%7C+Microservices;React+%7C+TypeScript+%7C+Modern+Frontend;AWS+%7C+Azure+%7C+Cloud+Native;AI+Powered+Solutions;System+Design+%7C+Distributed+Systems"/>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/sahith-reddy-janga">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jangasahithreddy512@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=sahithraeddy512&style=for-the-badge&color=blue"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# ⚡ SYSTEM OVERVIEW
 
 ```yaml
 Name: Sahith Reddy
+
 Role: Software Engineer
+
 Experience: 3+ Years
+
 Specialization:
   - Full Stack Development
   - Enterprise Applications
   - Cloud Native Systems
-  - AI Powered Applications
-  - Distributed Systems
+  - AI Powered Solutions
+  - Distributed Architectures
 
 Current Focus:
   - System Design
   - Microservices
   - Cloud Architecture
   - AI Agents
-  - Enterprise Software
+  - Enterprise SaaS Platforms
 ```
 
 ---
 
-# 🚀 Engineering Domains
+# 🚀 ENGINEERING DOMAINS
 
-<table>
-<tr>
-<td>🏢 Enterprise Applications</td>
-<td>☁️ Cloud Native Platforms</td>
-</tr>
+<div align="center">
 
-<tr>
-<td>🤖 AI Applications</td>
-<td>🌐 Full Stack Systems</td>
-</tr>
+| Domain                     | Expertise                            |
+| -------------------------- | ------------------------------------ |
+| 🏢 Enterprise Applications | Backend Systems & Business Platforms |
+| ☁️ Cloud Native Systems    | AWS, Azure, Docker, Kubernetes       |
+| 🤖 AI Applications         | LLMs, RAG, Intelligent Automation    |
+| 🌐 Full Stack Development  | React + Spring Boot                  |
+| 💳 Financial Workflows     | Transaction Processing Systems       |
+| 🏥 Healthcare Platforms    | HL7 Integration                      |
+| 🎓 Education Platforms     | ERP Systems                          |
+| ✈️ Travel Applications     | Booking & Management Systems         |
 
-<tr>
-<td>📊 Data & Analytics</td>
-<td>💳 Financial Workflows</td>
-</tr>
-
-<tr>
-<td>🏥 Healthcare Systems</td>
-<td>🎓 Education Platforms</td>
-</tr>
-
-<tr>
-<td>✈️ Travel Platforms</td>
-<td>📡 Event Driven Systems</td>
-</tr>
-</table>
+</div>
 
 ---
 
-# ⚙️ Tech Arsenal
+# 🛠️ TECHNOLOGY STACK
 
-### Backend
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,postgres,mysql,mongodb,aws,azure,docker,kubernetes,git,github,maven"/>
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,githubactions"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman"/>
-</p>
+</div>
 
 ---
 
-# 🏆 Featured Projects
+# 🔥 FEATURED PROJECTS
 
-## 🤖 Enterprise AI Assistant
+### 🏢 SmartCampus ERP
 
-AI-powered knowledge retrieval system using RAG architecture, enterprise search, and intelligent workflow automation.
+Enterprise education platform supporting academic operations, user management, workflow automation, and institutional administration.
 
-### Tech Stack
+### 🤖 Enterprise AI Assistant
 
-Spring Boot • LLMs • RAG • NLP • Azure
+AI-powered enterprise search platform using Retrieval-Augmented Generation (RAG), NLP, and intelligent document retrieval.
 
----
+### 🏥 HL7 Healthcare Platform
 
-## 🏢 SmartCampus ERP
+Healthcare interoperability platform enabling secure healthcare messaging and patient data exchange workflows.
 
-Scalable education ERP platform supporting institutional operations, user management, and enterprise workflows.
+### 💳 Financial Processing System
 
-### Tech Stack
+Event-driven transaction processing platform using distributed architecture and asynchronous messaging.
 
-Java • Spring Boot • JWT • Docker • Kubernetes
+### ✈️ Sukun Adventures
 
----
-
-## 💳 Financial Transaction Processing Platform
-
-Distributed event-driven platform handling transaction workflows and asynchronous processing.
-
-### Tech Stack
-
-Java • Kafka • PostgreSQL • Docker
+Full-stack travel booking and management platform built with modern web technologies.
 
 ---
 
-## 🏥 HL7 Healthcare Platform
-
-Healthcare interoperability platform enabling secure patient data exchange and healthcare messaging.
-
-### Tech Stack
-
-Java • Spring Boot • HL7 • PostgreSQL
-
----
-
-## ✈️ Sukun Adventures
-
-Full-stack travel booking and management platform.
-
-### Tech Stack
-
-React • Spring Boot • MySQL
-
----
-
-# 📊 GitHub Analytics
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
@@ -162,7 +113,7 @@ React • Spring Boot • MySQL
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 CONTRIBUTION STREAK
 
 <div align="center">
 
@@ -172,55 +123,42 @@ React • Spring Boot • MySQL
 
 ---
 
-# 📈 Activity Graph
+# 📈 ACTIVITY GRAPH
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahithraeddy512&theme=tokyo-night"/>
 
 ---
 
-# 🏅 GitHub Trophies
+# 🎯 CURRENT ROADMAP
 
-<div align="center">
+```text
+✓ Advanced System Design
 
-<img src="https://github-profile-trophy.vercel.app/?username=sahithraeddy512&theme=tokyonight&row=2&column=4"/>
+✓ Distributed Systems
 
-</div>
+✓ Kubernetes
 
----
+✓ Cloud Architecture
 
-# 🎯 2026 Roadmap
+✓ AI Agents
 
-* ✅ Advanced System Design
-* ✅ Distributed Systems
-* ✅ Kubernetes
-* ✅ AI Agents
-* ✅ Cloud Architecture
-* ✅ Open Source Contributions
-* ✅ Enterprise Scale Applications
+✓ Enterprise SaaS Platforms
+
+✓ Startup Building
+```
 
 ---
 
-# 🌐 Connect With Me
+# 💡 PHILOSOPHY
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/sahith-reddy-janga">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:jangasahithreddy512@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+"Great software is not just about writing code. It's about building scalable systems that create measurable business impact."
 
 ---
 
 <div align="center">
 
-### 💡 "Building software that scales from ideas to enterprise systems."
+### 🚀 Building software that scales from ideas to enterprise-grade systems.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0f172a,50:2563eb,100:06b6d4"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=12,20,24,30"/>
